@@ -1,0 +1,10 @@
+div#mouse-follower {
+  position: fixed;
+  left: -15px;
+  top: -15px;
+  width: 1.5rem;
+  aspect-ratio: 1;
+  border: 1px solid white;
+  border-radius: 50%;
+  pointer-events: none;
+}
