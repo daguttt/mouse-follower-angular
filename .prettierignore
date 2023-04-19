@@ -1,0 +1,5 @@
+node_modules/
+.angular/
+.vscode/
+README.md
+pnpm-lock.yaml
